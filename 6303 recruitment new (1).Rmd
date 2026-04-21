@@ -1,6 +1,6 @@
 ---
 title: "6303: Final Project"
-author: "Varun Sai Thota 1002140673, Ramyasai Donkeshwaram 1002164699"
+author: "Ramyasai Donkeshwaram 1002164699"
 date: "2024-05-08"
 output:
   pdf_document: default
